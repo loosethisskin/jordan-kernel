@@ -79,3 +79,7 @@ GTAGS
 *.orig
 *~
 \#*#
+
+out
+build_kernel_*.log
+drivers/gpu/ion/omap/modules.builtin
